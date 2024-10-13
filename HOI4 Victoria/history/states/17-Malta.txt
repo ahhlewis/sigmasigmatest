@@ -1,0 +1,21 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		12003 
+	}
+	manpower=1
+
+    	state_category = city
+
+	history={
+		owner = GBR
+		add_core_of = MLT
+		buildings = {
+			infrastructure = 5
+
+	}
+
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

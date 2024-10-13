@@ -1,0 +1,22 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		705 3686 3722 6704 6724 9677 9680 9718 11649 
+	}
+	manpower=1
+
+    	state_category = city
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 5
+
+	}
+
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,39 @@
+#	#	#	# EUROPE
+
+FRA = "countries/France.txt"
+ICE = "countries/Iceland.txt"
+DEN = "countries/Denmark.txt"
+LUX = "countries/Luxembourg.txt"
+SPR = "countries/Spain.txt"
+MLT = "countries/Malta.txt"
+
+## Russia
+RUS = "countries/Russia.txt"
+UKR = "countries/Ukraine.txt"
+
+## British Isles
+GBR = "countries/Great Britain.txt"
+SCO = "countries/Scotland.txt"
+IRE = "countries/Ireland.txt"
+WLS = "countries/Wales.txt"
+
+## Germany
+PRE = "countries/Prussia.txt"
+
+## Italy
+SAR = "countries/Sardinia.txt"
+
+#	#	#	# ASIA
+KOR = "countries/Korea.txt"
+JAP = "countries/Japan.txt"
+CHI = "countries/China.txt"
+
+#	#	#	# AMERICAS
+CAN = "countries/Canada.txt"
+USA = "countries/United States.txt"
+
+#	#	#	# AFRICA
+MAD = "countries/Madagascar.txt"
+TUN = "countries/Tunisia.txt"
+EGY = "countries/Egypt.txt"
+
